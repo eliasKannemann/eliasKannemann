@@ -2,7 +2,7 @@
 #### I'm fullstack developer
 I'm Elias from Argentina. I really enjoy learning language and framework like JavaScript, React, Typescript,  Node js  
 
-Skills:  REACT / JS / HTML / CSS / CHAKRA UI / NEXT JS / TYPESCRIPT 
+Skills:  REACT / JS / HTML / CSS / NEXT JS / TYPESCRIPT 
 
 - 🌱 I’m currently learning Next js 
 

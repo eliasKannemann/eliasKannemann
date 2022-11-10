@@ -5,7 +5,7 @@ I'm Elias from Argentina. I really enjoy learning language and framework like Ja
 Skills:  REACT / JS / HTML / CSS / NEXT JS / TYPESCRIPT 
 
 - 🌱 I’m currently learning Next js 
-- Actually I working team in project PEIT ![Solar System](https://github.com/PrimerEmpleoIT/PEIT-react2-solar-system-app).Skills used to the Progressive Web APP : Next.js JS TypeScript CSS HTML React 
+- Actually I working team in project PEIT ![Solar System](https://github.com/PrimerEmpleoIT/PEIT-react2-solar-system-app). Skills used to the Progressive Web APP : Next.js JS TypeScript CSS HTML React 
 
 
 

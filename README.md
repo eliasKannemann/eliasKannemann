@@ -2,7 +2,7 @@
 #### I'm fullstack developer
 I'm Elias from Argentina. I really enjoy learning language and framework like JavaScript, React, Typescript,  Node js  
 
-Skills:  REACT / JS / HTML / CSS / NEXT JS /  BOOTSTRAP 
+Skills:  REACT / JS / HTML / CSS / NEXT JS /  BOOTSTRAP / TAILWIND
 
 - 🌱 I’m currently learning Next js and Typescript
 - Actually I working team in project PEIT ![Solar System](https://github.com/PrimerEmpleoIT/PEIT-react2-solar-system-app). Skills used to the Progressive Web APP : Next.js JS TypeScript CSS HTML React 

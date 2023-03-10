@@ -1,4 +1,4 @@
-### Hi there 👋, Hi I'm Elias 
+### Hey there 👋, Hi I'm Elias 
 #### I'm fullstack developer
 I'm Elias from Argentina. I really enjoy learning language and framework like JavaScript, React, Typescript,  Node js  
 
